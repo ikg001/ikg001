@@ -13,8 +13,7 @@
 <br/><br/>
 
 <a href="https://www.youtube.com/@ikg001/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://yazilim.dev.io"><img src="https://img.shields.io/badge/yazilim.dev.io-6A4CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -91,14 +90,6 @@
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-### 🌐 3D Katkı Grafiği
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ikg001/ikg001/main/profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
