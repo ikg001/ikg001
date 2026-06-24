@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20Agentic%20Workflows&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF0000,100:8B00FF&height=200&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
 <br/>
 
@@ -8,13 +8,13 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=Founder+%40+yazilim.dev.io;President+%40+FUTURE+%E2%80%94+F%C4%B1rat+University;Building+BlueprintAI+%7C+Y%C3%BCkBurada+%7C+AutoEditor;LLM+%7C+RAG+%7C+AI+Agent+Systems;Vibe+Coding+De%C4%9Fil%2C+Anlayarak+Coding;Claude+Code+Agentic+Workflows" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=Creator+%40+yazilim.dev.io;President+%40+FUTURE+%E2%80%94+F%C4%B1rat+University;Building+BlueprintAI+%7C+Y%C3%BCkBurada+%7C+AutoEditor;LLM+%7C+RAG+%7C+AI+Agent+Systems;Vibe+Coding+De%C4%9Fil%2C+Anlayarak+Coding;Claude+Code+Agentic+Workflows" />
 
 <br/><br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%40ikg001-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ikg001/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-İbrahim%20Kerem%20Güven-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/)
-[![Website](https://img.shields.io/badge/Website-yazilim.dev.io-6A4CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://yazilim.dev.io)
+<a href="https://www.youtube.com/@ikg001/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://yazilim.dev.io"><img src="https://img.shields.io/badge/yazilim.dev.io-6A4CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -23,7 +23,7 @@
 ### 👋 Merhaba, ben İbrahim Kerem
 
 - 🎓 Fırat Üniversitesi Yazılım Mühendisliği — **FUTURE** topluluğunun kurucu başkanıyım
-- 🚀 **yazilim.dev.io** kurucusu — yazılım, felsefe ve teknoloji içerikleri üretiyorum
+- 🚀 **yazilim.dev.io** — yazılım, felsefe ve teknoloji içerikleri üretiyorum
 - 🤖 **BlueprintAI** üzerinde çalışıyorum — LLM, AI Agent sistemleri ve RAG mimarileri
 - 🏗️ Şu an: **YükBurada** (lojistik SaaS) · **AutoEditor** (AI video otomasyon)
 - 💬 Felsefe + kod: anlamadan yazılan kodun bir anlamı yok
@@ -87,11 +87,27 @@
 
 ---
 
+### 💬 Günün Alıntısı
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### 🌐 3D Katkı Grafiği
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ikg001/ikg001/main/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
-<!-- snake-game-start -->
+<div align="center">
 <img src="https://raw.githubusercontent.com/ikg001/ikg001/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
-<!-- snake-game-end -->
+</div>
 
 ---
 

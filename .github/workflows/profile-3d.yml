@@ -1,0 +1,32 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ikg001
+          SETTING_JSON: |
+            {
+              "githubUserName": "ikg001",
+              "startForegroundColor": "0xff6b6b",
+              "endForegroundColor": "0x8b00ff",
+              "backgroundColor": "0x00000000",
+              "type": "normal",
+              "utcOffset": "+03:00"
+            }
+      - name: Commit & Push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A .
+          git commit -m "update 3D contrib graph" || true
+          git push
