@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="rg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"><animate attributeName="stop-color" values="#ff6b6b;#ffd93d;#6bcb77;#4d96ff;#c77dff;#ff6b6b" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="50%"><animate attributeName="stop-color" values="#ffd93d;#6bcb77;#4d96ff;#c77dff;#ff6b6b;#ffd93d" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="100%"><animate attributeName="stop-color" values="#8b00ff;#ff6b6b;#ffd93d;#6bcb77;#8b00ff" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="rg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"><animate attributeName="stop-color" values="#4d96ff;#c77dff;#ff6b6b;#ffd93d;#6bcb77;#4d96ff" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="100%"><animate attributeName="stop-color" values="#c77dff;#ff6b6b;#ffd93d;#6bcb77;#4d96ff;#c77dff" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feFlood flood-opacity="0.5" result="c"><animate attributeName="flood-color" values="#ff6b6b;#ffd93d;#6bcb77;#4d96ff;#c77dff;#ff6b6b" dur="5s" repeatCount="indefinite"/></feFlood>
+      <feComposite in="c" in2="b" operator="in" result="s"/>
+      <feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)" rx="14"/>
+
+  <!-- Animated border -->
+  <rect width="896" height="296" x="2" y="2" fill="none" rx="12">
+    <animate attributeName="stroke" values="#ff6b6b;#ffd93d;#6bcb77;#4d96ff;#c77dff;#ff6b6b" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1;2;1" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Faded code braces -->
+  <text x="12" y="215" font-family="monospace" font-size="130" fill="#ff6b6b" opacity="0.05">{</text>
+  <text x="796" y="215" font-family="monospace" font-size="130" fill="#8b00ff" opacity="0.05">}</text>
+  <text x="55" y="100" font-family="monospace" font-size="18" fill="#4d96ff" opacity="0.12">&lt;dev&gt;</text>
+  <text x="790" y="240" font-family="monospace" font-size="18" fill="#4d96ff" opacity="0.12">&lt;/dev&gt;</text>
+
+  <!-- Stars top -->
+  <circle cx="100" cy="35" r="1.5" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.1;1" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="190" cy="58" r="1" fill="#ffd93d"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="340" cy="28" r="2" fill="#6bcb77"><animate attributeName="opacity" values="1;0.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="20" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="560" cy="38" r="1.5" fill="#4d96ff"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="30" r="1" fill="#c77dff"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="55" r="2" fill="#ff6b6b"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="38" r="1.5" fill="#ffd93d"><animate attributeName="opacity" values="1;0.4;1" dur="2.1s" repeatCount="indefinite"/></circle>
+
+  <!-- Stars sides -->
+  <circle cx="42" cy="130" r="1.5" fill="#6bcb77"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="858" cy="148" r="2" fill="#4d96ff"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="32" cy="200" r="1" fill="#c77dff"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="868" cy="210" r="1.5" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+
+  <!-- Stars bottom -->
+  <circle cx="130" cy="268" r="1" fill="#c77dff"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="278" r="1.5" fill="#ff6b6b"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="282" r="1" fill="#ffffff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="620" cy="272" r="2" fill="#ffd93d"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="770" cy="275" r="1" fill="#6bcb77"><animate attributeName="opacity" values="1;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="265" r="1.5" fill="#4d96ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.7s" repeatCount="indefinite"/></circle>
+
+  <!-- Main name with rainbow gradient + glow -->
+  <text x="450" y="148" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="38" font-weight="bold" fill="url(#rg)" filter="url(#glow)">İbrahim Kerem Güven</text>
+
+  <!-- Subtitle pulsing -->
+  <text x="450" y="193" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="url(#rg2)" letter-spacing="3" filter="url(#softglow)">
+    AI Engineer · Builder · Creator
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="230" y1="218" x2="670" y2="218" stroke="#ffffff" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Moving dot on line -->
+  <circle r="3" filter="url(#softglow)">
+    <animate attributeName="fill" values="#ff6b6b;#ffd93d;#6bcb77;#4d96ff;#c77dff;#ff6b6b" dur="5s" repeatCount="indefinite"/>
+    <animateMotion dur="3s" repeatCount="indefinite" path="M230,218 L670,218 L230,218"/>
+  </circle>
+
+  <!-- Bottom console.log -->
+  <text x="450" y="262" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="12" fill="#30363d">console.log("Welcome to my GitHub 🚀")</text>
+</svg>

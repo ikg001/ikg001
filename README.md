@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ikg001/ikg001/main/welcome-banner.svg" width="100%" alt="Welcome Banner" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF0000,100:8B00FF&height=200&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
 <img src="https://komarev.com/ghpvc/?username=ikg001&color=blueviolet&style=for-the-badge&label=Profile+Views" />&nbsp;
@@ -69,6 +73,20 @@
 <a href="https://github.com/ikg001/clarify_and_learn">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikg001&repo=clarify_and_learn&theme=tokyonight&hide_border=true" />
 </a>
+
+</div>
+
+#### 🔥 Fırında
+
+<div align="center">
+
+> 💭 Aklımda yüzlerce fikir var. Bazı projeler henüz açıklanamaz — ama birazdan fırından çıkıyor. Takipte kal.
+
+| | Proje | Durum |
+|:---:|---|:---:|
+| 🔥 | **???** | Yakında açıklanıyor |
+| 🔥 | **???** | Blueprint'in bir parçası — fırında |
+| 💡 | **???** | Fikir → Prototip aşamasında |
 
 </div>
 
