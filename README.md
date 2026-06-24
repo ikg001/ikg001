@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20%26%20Agentic%20Workflows&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20Agentic%20Workflows&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -34,14 +34,6 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,csharp,mongodb,redis,vercel,figma,git&theme=dark" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ikg001&theme=tokyonight&no-frame=true&column=-1&margin-w=8" />
 </div>
 
 ---
