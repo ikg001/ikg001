@@ -17,15 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ikg001
-          SETTING_JSON: |
-            {
-              "githubUserName": "ikg001",
-              "startForegroundColor": "0xff6b6b",
-              "endForegroundColor": "0x8b00ff",
-              "backgroundColor": "0x00000000",
-              "type": "normal",
-              "utcOffset": "+03:00"
-            }
+          SETTING_JSON: .github/profile-3d-settings.json
       - name: Commit & Push
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
