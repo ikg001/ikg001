@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,17:FF7F00,34:FFFF00,51:00FF00,68:0000FF,85:8B00FF,100:FF0000&height=220&section=header&text=İbrahim%20Kerem%20Güven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20·%20AI%20Agent%20%26%20Agentic%20Workflows&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF7F00,50:FFFF00,75:00BFFF,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20%26%20Agentic%20Workflows&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=Founder+%40+yazilim.dev.io;President+%40+FUTURE+—+Fırat+University;Building+BlueprintAI+%7C+YükBurada+%7C+AutoEditor;LLM+%7C+RAG+%7C+AI+Agent+Systems;Vibe+Coding+Değil%2C+Anlayarak+Coding;Claude+Code+Agentic+Workflows" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=Founder+%40+yazilim.dev.io;President+%40+FUTURE+%E2%80%94+F%C4%B1rat+University;Building+BlueprintAI+%7C+Y%C3%BCkBurada+%7C+AutoEditor;LLM+%7C+RAG+%7C+AI+Agent+Systems;Vibe+Coding+De%C4%9Fil%2C+Anlayarak+Coding;Claude+Code+Agentic+Workflows" />
 
 <br/><br/>
 
@@ -107,6 +107,6 @@
 
 📫 **[yazilim.dev.io](https://yazilim.dev.io)** · **[YouTube](https://www.youtube.com/@ikg001/)** · **[LinkedIn](https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,17:0000FF,34:00FF00,51:FFFF00,68:FF7F00,85:FF0000,100:8B00FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,25:00BFFF,50:00FF00,75:FFFF00,100:FF0000&height=120&section=footer" />
 
 </div>
