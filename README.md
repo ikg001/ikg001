@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/ikg001/ikg001/main/welcome-banner.svg" width="100%" alt="Welcome Banner" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF0000,100:8B00FF&height=200&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
-
 <img src="https://komarev.com/ghpvc/?username=ikg001&color=blueviolet&style=for-the-badge&label=Profile+Views" />&nbsp;
 <img src="https://img.shields.io/github/followers/ikg001?label=Followers&style=for-the-badge&color=6A4CFF&labelColor=1a1a2e" />
 
