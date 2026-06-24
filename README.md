@@ -66,9 +66,6 @@
 
 <div align="center">
 
-<a href="https://github.com/ikg001/PatentAl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikg001&repo=PatentAl&theme=tokyonight&hide_border=true" />
-</a>
 <a href="https://github.com/ikg001/clarify_and_learn">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikg001&repo=clarify_and_learn&theme=tokyonight&hide_border=true" />
 </a>
