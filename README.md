@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF7F00,50:FFFF00,75:00BFFF,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20%26%20Agentic%20Workflows&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B00FF&height=220&section=header&text=%C4%B0brahim%20Kerem%20G%C3%BCven&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Founder%20%40%20yazilim.dev.io%20%C2%B7%20AI%20Agent%20%26%20Agentic%20Workflows&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -41,7 +41,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ikg001&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ikg001&theme=tokyonight&no-frame=true&column=-1&margin-w=8" />
 </div>
 
 ---
@@ -107,6 +107,6 @@
 
 📫 **[yazilim.dev.io](https://yazilim.dev.io)** · **[YouTube](https://www.youtube.com/@ikg001/)** · **[LinkedIn](https://www.linkedin.com/in/ibrahim-kerem-g%C3%BCven-875531295/)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,25:00BFFF,50:00FF00,75:FFFF00,100:FF0000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:FF0000&height=120&section=footer" />
 
 </div>
