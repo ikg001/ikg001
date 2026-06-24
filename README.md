@@ -98,7 +98,7 @@
 ### 🌐 3D Katkı Grafiği
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ikg001/ikg001/main/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/ikg001/ikg001/main/profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
